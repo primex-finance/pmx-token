@@ -1,3 +1,7 @@
+# Primex Token
+
+This repository contains the source code of Primex Finance token PMX. The initial token contract is deployed on Ethereum, with LayerZero-powered OFTs on other networks.
+
 <p align="center">
   <a href="https://layerzero.network">
     <img alt="LayerZero" style="width: 400px" src="https://docs.layerzero.network/img/LayerZero_Logo_White.svg"/>
